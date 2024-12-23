@@ -9,7 +9,7 @@ Listing ID, Listing Title, Page Name and Amount Per Stay.
 Clone the repo and run the following commands:
 
 ```bash
-git clone 'https://github.com/esharma33/PL_CSVExporter.git
+git clone https://github.com/esharma33/PL_CSVExporter.git
 npm install 
 npm start
 ```
